@@ -1,1 +1,62 @@
-
+Month_Year,Customer_Desc,Customer_ID,Parent_Customer,CPR_Account_Head,Actuals,Budget
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,555,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Direct Costs,-3465.011829,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Direct Costs,14954.72,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Direct Costs,33062.88756,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Revenue,8019.513537,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Revenue,17061.04488,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Account Management,1.19937719,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Account Management,1595.296862,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Corp Bench Allocation,668.2891829,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Corp Bench Allocation,376.2082317,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Corporate Overheads,4366.154085,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Corporate Overheads,2457.894549,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Direct Costs,10.52,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Direct Costs,42.14,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,174.22,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Revenue,72.98,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,47.75,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,148.85,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,45,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Revenue,131.15,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,3.34,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,0.55,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,3,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,1.51,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,0,1606.222
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,325.98,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Revenue,947.21,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,25.67,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,237.56,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,760.12,0
+01-02-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Revenue,96.64,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,7.56,0
+01-01-2025,Avison Young (USA) Inc.,1345902,AVISON YOUNG,Indirect Costs,9.46,0
+01-01-2025,National Railroad Passenger Corporation,1206841,NATIONAL RAILROAD PASSENGER CORPORATION,Direct Costs,337.07,0
+01-01-2025,National Railroad Passenger Corporation,1206841,NATIONAL RAILROAD PASSENGER CORPORATION,Direct Costs,6689.52,0
+01-02-2025,National Railroad Passenger Corporation,1206841,NATIONAL RAILROAD PASSENGER CORPORATION,Direct Costs,36693.63,0
+01-01-2025,National Railroad Passenger Corporation,1206841,NATIONAL RAILROAD PASSENGER CORPORATION,Revenue,-39.69,0
+01-01-2025,National Railroad Passenger Corporation,1206841,NATIONAL RAILROAD PASSENGER CORPORATION,Account Management,-402.99,0
+01-01-2025,National Railroad Passenger Corporation,1206841,NATIONAL RAILROAD PASSENGER CORPORATION,Revenue,26.76,0
+01-01-2025,National Railroad Passenger Corporation,1206841,NATIONAL RAILROAD PASSENGER CORPORATION,Corp Bench Allocation,105.399,0
+01-02-2025,National Railroad Passenger Corporation,1206841,NATIONAL RAILROAD PASSENGER CORPORATION,Revenue,550.404,0
+01-01-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Direct Costs,410.2047561,0
+01-02-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Revenue,450.9085366,0
+01-01-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Corp Bench Allocation,6.153073171,0
+01-02-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Corp Bench Allocation,6.763634146,0
+01-01-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Corporate Overheads,40.20006098,0
+01-02-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Corporate Overheads,44.18903659,0
+01-01-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Indirect Costs,10,0
+01-02-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Indirect Costs,10,0
+01-01-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Indirect Costs,13.5,0
+01-01-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Revenue,42.5,0
+01-02-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Indirect Costs,13.5,0
+01-02-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Indirect Costs,42.5,0
+01-01-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,SGA,4.92245122,0
+01-02-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,SGA,5.410902439,0
+01-01-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Bench,8.204097561,0
+01-02-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Bench,9.018170732,0
+01-01-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,SGA,25.43269512,0
+01-02-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,SGA,27.95632927,0
+01-01-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Indirect Costs,13.571,0
+01-02-2025,Starwood Hotels & Resorts,1216461,MARRIOTT,Revenue,15,0
